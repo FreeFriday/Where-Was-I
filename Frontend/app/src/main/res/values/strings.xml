@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">나 어디갔었지?</string>
+    <string name="tracking_on">위치 추적 활성화</string>
+    <string name="tracking_days">위치 기록 기간: </string>
+    <string name="generic_days">일</string>
+    <string name="warning">위치 기록은 백그라운드에서 수행하며, \n기록된 위치는 로컬에만 저장됩니다.</string>
+    <string name="frequency">위치 기록 빈도: </string>
+    <string name="low">낮음</string>
+    <string name="medium">중간</string>
+    <string name="high">높음</string>
+    <string name="show_trackings">위치 기록 보기</string>
+    <string name="delete">위치 기록 삭제</string>
+    <string name="deletealert">저장된 위치 기록을 삭제합니다. 계속할까요?</string>
+    <string name="cont">계속</string>
+    <string name="cancel">취소</string>
+    <string name="donedelete">삭제되었습니다.</string>
+    <string name="next">다음</string>
+    <string name="prev">이전</string>
+    <string name="emptyarr">기록이 없습니다.</string>
+</resources>
